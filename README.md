@@ -86,12 +86,13 @@ To contribute please see [contributing.md](CONTRIBUTING.md).
 [`bpk-component-table`](/packages/bpk-component-table)
 [`bpk-component-text`](/packages/bpk-component-text)
 [`bpk-component-textarea`](/packages/bpk-component-textarea)
-[`bpk-theming`](/packages/bpk-theming)
 [`bpk-component-ticket`](/packages/bpk-component-ticket)
 [`bpk-component-tooltip`](/packages/bpk-component-tooltip)
 [`bpk-react-utils`](/packages/bpk-react-utils)
 [`bpk-mixins`](/packages/bpk-mixins)
+[`bpk-scrim-utils`](/packages/bpk-scrim-utils)
 [`bpk-stylesheets`](/packages/bpk-stylesheets)
+[`bpk-theming`](/packages/bpk-theming)
 
 ## List of external packages
 
